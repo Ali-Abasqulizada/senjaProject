@@ -1,0 +1,13 @@
+/*! Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--main);
+    border: none;
+    outline: none;
+}
